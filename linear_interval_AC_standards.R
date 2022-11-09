@@ -1,10 +1,4 @@
-##############################################################################
-##############################################################################
-# Dayrell RLC, Cawthray GR, Lambers H, Ranathunge K. (2021) Using activated  #
-# charcoal to remove substances interfering with the colorimetric assay      #
-# of inorganic phosphate in plant extracts                                   #
-##############################################################################
-##############################################################################
+# Dayrell RLC, Cawthray GR, Lambers H, Ranathunge K. (2022) Using activated charcoal to remove substances interfering with the colorimetric assay of inorganic phosphate in plant extracts. Plant and Soil, 476:755–764.           
 
 ## Visual assessment of the linear interval of the calibration curve of AC treated standards compared to a nonlinear model.
 
