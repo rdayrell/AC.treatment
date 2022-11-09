@@ -1,10 +1,5 @@
-##############################################################################
-##############################################################################
-# Dayrell RLC, Cawthray GR, Lambers H, Ranathunge K. (2021)                  #
-# Using activated charcoal to remove substances interfering with the         #
-# colorimetric assay of inorganic phosphate in plant extracts                #
-##############################################################################
-##############################################################################
+# Dayrell RLC, Cawthray GR, Lambers H, Ranathunge K. (2022) Using activated charcoal to remove substances interfering with the colorimetric assay of inorganic phosphate in plant extracts. Plant and Soil, 476:755–764.
+
 
 ### Modelling of light absorbance as a function of P concentration after activated charcoal treatment
 
